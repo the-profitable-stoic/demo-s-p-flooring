@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "S P Flooring",
+    "phone": "+16614876746",
+    "category": "flooring contractor",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Flooring Done Right, Bakersfield Strong",
+      "heroSubline": "S P Flooring delivers expert flooring solutions across Kern County. We handle everything from initial consultation to flawless installation, built to withstand Bakersfield's climate.",
+      "aboutTitle": "Built on Quality, Rooted in Bakersfield",
+      "aboutText": [
+        "S P Flooring started with a simple mission: to provide Bakersfield with durable, beautiful flooring solutions, installed with integrity. We're a locally-owned business, and we understand the specific challenges our climate and community present.",
+        "We believe in transparent communication, meticulous craftsmanship, and exceeding expectations. Our team treats every project, big or small, with the same dedication to quality and attention to detail. We stand behind our work, ensuring lasting satisfaction.",
+        "Bakersfield is our home, and we're committed to giving back. We actively participate in local initiatives and support community organizations. We believe that strong homes build a stronger Bakersfield."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision and care in every installation, ensuring lasting quality and beauty."
+        },
+        {
+          "title": "Wide Selection",
+          "description": "From hardwood to tile, we offer a diverse range of flooring options to suit any style and budget."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Bakersfield's climate and housing styles, providing tailored solutions."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work and guarantee your complete satisfaction with our services."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free quote and discover the perfect flooring solution for your Bakersfield home or business."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Timeless elegance and lasting value for your Bakersfield home.",
+        "description": "Hardwood flooring adds warmth and sophistication to any space. S P Flooring specializes in the installation, repair, and refinishing of hardwood floors. We handle everything from solid wood to engineered options, ensuring a perfect fit for your Bakersfield home. Our team understands the challenges of Bakersfield's dry climate and will recommend the best wood types and finishes to prevent cracking and warping. We meticulously prepare the subfloor, ensuring a level and stable base for your new hardwood. Our finishing process enhances the natural beauty of the wood while providing a durable and long-lasting surface. From classic oak to exotic hardwoods, we offer a wide selection to complement your style. We also offer dustless sanding and refinishing services to restore your existing hardwood floors to their original glory. Let S P Flooring bring the timeless beauty of hardwood to your Bakersfield residence.",
+        "process": [
+          "Consultation & Selection",
+          "Subfloor Preparation",
+          "Precise Installation",
+          "Finishing & Sealing"
+        ],
+        "benefits": [
+          "Adds Value to Your Home",
+          "Timeless Beauty",
+          "Durable and Long-Lasting",
+          "Easy to Maintain"
+        ],
+        "faq": [
+          {
+            "question": "What type of hardwood is best for Bakersfield's climate?",
+            "answer": "Engineered hardwood is often a better choice in Bakersfield due to its increased stability in fluctuating humidity levels. We can also recommend specific wood species and sealants that resist drying and cracking."
+          },
+          {
+            "question": "How long does hardwood installation take?",
+            "answer": "The duration depends on the size of the area and the complexity of the installation. However, most residential hardwood projects are completed within 3-5 days."
+          },
+          {
+            "question": "Can you refinish existing hardwood floors?",
+            "answer": "Yes, we offer dustless sanding and refinishing services to revitalize your existing hardwood floors, restoring their original beauty and shine."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring",
+        "name": "Tile Flooring",
+        "shortDescription": "Durable, versatile, and stylish tile flooring for any room.",
+        "description": "Tile flooring offers exceptional durability, versatility, and style, making it an ideal choice for Bakersfield homes. S P Flooring specializes in the installation of ceramic, porcelain, and natural stone tiles. We meticulously prepare the subfloor to ensure a level and stable base, preventing cracks and unevenness. Our team expertly lays each tile with precision, creating a seamless and visually appealing surface. We offer a wide variety of tile styles, colors, and patterns to complement any decor. Tile is a practical choice for Bakersfield's hot summers, providing a cool and comfortable surface underfoot. From kitchens and bathrooms to patios and entryways, our tile solutions can enhance any space. We also offer tile repair and grout cleaning services to keep your tile floors looking their best. Let S P Flooring help you create a beautiful and long-lasting tile floor that will stand the test of time.",
+        "process": [
+          "Design Consultation",
+          "Subfloor Preparation",
+          "Precise Tile Laying",
+          "Grouting and Sealing"
+        ],
+        "benefits": [
+          "Water Resistant",
+          "Easy to Clean",
+          "Durable and Long-Lasting",
+          "Versatile Design Options"
+        ],
+        "faq": [
+          {
+            "question": "Is tile a good choice for Bakersfield's climate?",
+            "answer": "Yes, tile is an excellent choice for Bakersfield's hot climate as it stays cool and provides a comfortable surface. It's also resistant to moisture and easy to clean."
+          },
+          {
+            "question": "What type of tile is best for a bathroom?",
+            "answer": "Porcelain tile is a popular choice for bathrooms due to its water resistance and durability. It's also available in a wide variety of styles and colors."
+          },
+          {
+            "question": "How often should I clean my tile grout?",
+            "answer": "Regular cleaning with a mild detergent is recommended. For stubborn stains, we offer professional grout cleaning services to restore your grout to its original color."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable and stylish laminate flooring solutions for Bakersfield homes.",
+        "description": "Laminate flooring offers an affordable and stylish alternative to hardwood, providing a realistic wood look with enhanced durability. S P Flooring specializes in the installation of high-quality laminate flooring. We ensure a proper subfloor preparation to prevent unevenness and ensure a long-lasting installation. Our team expertly installs each plank with precision, creating a seamless and visually appealing surface. Laminate flooring is resistant to scratches, stains, and fading, making it an ideal choice for busy households. It is also easy to clean and maintain, saving you time and effort. We offer a wide variety of laminate styles, colors, and textures to complement any decor. Let S P Flooring help you transform your space with beautiful and durable laminate flooring.",
+        "process": [
+          "Consultation & Selection",
+          "Subfloor Evaluation",
+          "Precise Installation",
+          "Finishing Touches"
+        ],
+        "benefits": [
+          "Affordable",
+          "Durable and Scratch Resistant",
+          "Easy to Install",
+          "Realistic Wood Look"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While laminate is water-resistant, it's not entirely waterproof. Standing water should be cleaned up promptly to prevent damage. We also offer waterproof laminate options for areas prone to moisture."
+          },
+          {
+            "question": "How long does laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years or more."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While DIY installation is possible, professional installation ensures a proper subfloor preparation and a seamless, long-lasting result."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Waterproof and comfortable vinyl flooring for any room in your home.",
+        "description": "Vinyl flooring offers exceptional water resistance, comfort, and style, making it a perfect choice for bathrooms, kitchens, and other high-traffic areas. S P Flooring specializes in the installation of luxury vinyl plank (LVP) and sheet vinyl flooring. We ensure a proper subfloor preparation to prevent unevenness and ensure a long-lasting installation. Our team expertly installs each plank or sheet with precision, creating a seamless and waterproof surface. Vinyl flooring is resistant to scratches, stains, and fading, making it an ideal choice for busy households. It is also easy to clean and maintain, saving you time and effort. We offer a wide variety of vinyl styles, colors, and textures to complement any decor. Let S P Flooring help you transform your space with beautiful and durable vinyl flooring.",
+        "process": [
+          "Consultation & Design",
+          "Subfloor Preparation",
+          "Precise Installation",
+          "Sealing and Finishing"
+        ],
+        "benefits": [
+          "Waterproof",
+          "Comfortable Underfoot",
+          "Durable and Stain Resistant",
+          "Easy to Clean"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for bathrooms?",
+            "answer": "Yes, vinyl flooring is an excellent choice for bathrooms due to its waterproof properties and resistance to mold and mildew."
+          },
+          {
+            "question": "What is the difference between LVP and sheet vinyl?",
+            "answer": "LVP comes in individual planks that click together, while sheet vinyl comes in a roll and is installed as a single piece. LVP offers a more realistic wood look, while sheet vinyl provides a seamless and waterproof surface."
+          },
+          {
+            "question": "How do I clean vinyl flooring?",
+            "answer": "Regular sweeping and mopping with a mild detergent are sufficient for cleaning vinyl flooring. Avoid using abrasive cleaners or harsh chemicals."
+          }
+        ]
+      },
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation",
+        "shortDescription": "Comfortable and stylish carpet installation for your Bakersfield home.",
+        "description": "Carpet provides warmth, comfort, and style, making it a perfect choice for bedrooms, living rooms, and other cozy spaces. S P Flooring specializes in professional carpet installation. We assist in selecting the perfect carpet type and style to match your needs and budget. We ensure a proper subfloor preparation and padding installation to enhance comfort and extend the life of your carpet. Our team expertly installs each carpet with precision, creating a seamless and visually appealing surface. We offer a wide variety of carpet styles, colors, and textures to complement any decor. Let S P Flooring help you transform your space with comfortable and stylish carpet.",
+        "process": [
+          "Consultation & Selection",
+          "Subfloor Preparation",
+          "Padding Installation",
+          "Precise Carpet Installation"
+        ],
+        "benefits": [
+          "Warm and Comfortable",
+          "Reduces Noise",
+          "Adds Style and Texture",
+          "Variety of Colors and Styles"
+        ],
+        "faq": [
+          {
+            "question": "What type of carpet is best for high-traffic areas?",
+            "answer": "Nylon and polyester carpets are durable and stain-resistant, making them ideal for high-traffic areas. We can recommend specific carpet types based on your needs."
+          },
+          {
+            "question": "How often should I clean my carpet?",
+            "answer": "Regular vacuuming is essential for maintaining your carpet. Professional cleaning is recommended every 12-18 months to remove deep-seated dirt and allergens."
+          },
+          {
+            "question": "What is the importance of carpet padding?",
+            "answer": "Carpet padding provides cushioning, reduces noise, and extends the life of your carpet. It also helps to prevent the carpet from stretching and wrinkling."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair",
+        "name": "Floor Repair Services",
+        "shortDescription": "Expert floor repair to restore the beauty and safety of your floors.",
+        "description": "Whether it's water damage, cracks, or general wear and tear, damaged flooring can detract from the beauty and safety of your home. S P Flooring offers comprehensive floor repair services to restore your floors to their original condition. We assess the damage and provide effective solutions to repair or replace damaged sections. Our team has experience repairing hardwood, tile, laminate, and vinyl floors. We use quality materials and proven techniques to ensure a seamless and long-lasting repair. Don't let damaged floors diminish the value and appeal of your Bakersfield home. Contact S P Flooring for expert floor repair services.",
+        "process": [
+          "Assessment of Damage",
+          "Material Selection",
+          "Precise Repair Work",
+          "Finishing and Sealing"
+        ],
+        "benefits": [
+          "Restores Beauty of Floors",
+          "Improves Safety",
+          "Extends Floor Life",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my floors need repair?",
+            "answer": "Visible cracks, water damage, loose tiles, or uneven surfaces are all signs that your floors may need repair. Contact us for a professional assessment."
+          },
+          {
+            "question": "Can you repair water-damaged hardwood floors?",
+            "answer": "In many cases, we can repair water-damaged hardwood floors by replacing the affected sections and refinishing the surrounding area."
+          },
+          {
+            "question": "How long does floor repair take?",
+            "answer": "The duration depends on the extent of the damage and the type of flooring. We will provide an estimated timeline during the assessment process."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "S P Flooring is proud to provide comprehensive flooring services to the residents and businesses of Bakersfield, California. As a locally owned and operated company, we understand the unique needs and preferences of our community. From helping you select the perfect flooring to expert installation, we are committed to delivering exceptional results that enhance the beauty and value of your property.\n\nWhether you're looking to upgrade your home with luxurious hardwood, durable laminate, or plush carpet, S P Flooring offers a wide selection of high-quality materials to choose from. We also specialize in commercial flooring solutions, providing businesses in Bakersfield with durable and stylish options that can withstand heavy foot traffic and create a professional environment. Our team is dedicated to providing superior customer service and ensuring your complete satisfaction with every project.",
+        "localContext": "Bakersfield is a major city in California's San Joaquin Valley, known for its agricultural industry and country music heritage. We understand the needs of Bakersfield homeowners and businesses.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "S P Flooring extends its expert flooring services to the community of Oildale, California. We understand that Oildale residents value quality and affordability, and we strive to deliver both with every project we undertake. From consultation to installation, our team is dedicated to providing a seamless and stress-free experience.\n\nWe offer a wide range of flooring options to suit any style and budget, including hardwood, laminate, vinyl, and carpet. Whether you're renovating your entire home or simply updating a single room, S P Flooring has the perfect flooring solution for you. We pride ourselves on our attention to detail and commitment to customer satisfaction, ensuring that your new floors will look beautiful and last for years to come.",
+        "localContext": "Oildale is a community north of Bakersfield with strong ties to the oil industry. We're familiar with the homes and businesses in Oildale and surrounding areas.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "S P Flooring is dedicated to providing top-notch flooring services to the growing community of Rosedale, California. We understand that Rosedale residents appreciate both modern design and lasting quality, and we strive to deliver both with our extensive selection of flooring options.\n\nFrom elegant hardwood to durable tile, we have the perfect flooring solution to complement your home's unique style. Our experienced team will work closely with you to understand your needs and preferences, and we'll provide expert installation services to ensure that your new floors look their best. We are committed to providing exceptional customer service and building long-lasting relationships with our clients in Rosedale.",
+        "localContext": "Rosedale is a rapidly developing area northwest of Bakersfield, known for its newer homes and family-friendly atmosphere. We cater to the modern aesthetic of Rosedale homes.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Oildale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "S P Flooring is pleased to offer its professional flooring services to the residents and businesses of Shafter, California. As a company deeply rooted in the community, we understand the importance of providing reliable and affordable solutions. We're committed to delivering exceptional results that enhance the beauty and value of your property.\n\nWhether you're looking to upgrade your home with durable and stylish flooring or need a commercial flooring solution that can withstand heavy use, S P Flooring has the perfect option for you. We offer a wide selection of materials, including hardwood, laminate, vinyl, and carpet, and our experienced installers will ensure a flawless finish. We pride ourselves on our commitment to customer satisfaction and our dedication to providing personalized service.",
+        "localContext": "Shafter is a city in the San Joaquin Valley, known for its agricultural heritage and strong community spirit. We understand the flooring needs of Shafter's diverse properties.",
+        "nearbyAreas": [
+          "Wasco",
+          "Rosedale",
+          "Oildale"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "S P Flooring is happy to serve the community of Wasco, California, providing quality flooring solutions for homes and businesses. We understand the value of hard work and community pride in Wasco, and we reflect those values in our commitment to quality craftsmanship and exceptional service.\n\nWe offer a wide range of flooring options to suit any style and budget, from classic hardwood to modern vinyl plank. Our experienced team will work with you every step of the way, from selecting the perfect flooring to ensuring a professional and seamless installation. We are dedicated to providing exceptional customer service and building long-lasting relationships with our clients in Wasco.",
+        "localContext": "Wasco is a city in Kern County, known for its agriculture and rose-growing industry. We tailor our services to the specific needs of Wasco homes.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "S P Flooring is proud to offer its expert flooring services to the residents and businesses of Lamont, California. We understand that Lamont residents value affordability and durability, and we strive to deliver both with every project we undertake. From consultation to installation, our team is dedicated to providing a seamless and stress-free experience.\n\nWe offer a wide range of flooring options to suit any style and budget, including hardwood, laminate, vinyl, and carpet. Whether you're renovating your entire home or simply updating a single room, S P Flooring has the perfect flooring solution for you. We pride ourselves on our attention to detail and commitment to customer satisfaction, ensuring that your new floors will look beautiful and last for years to come.",
+        "localContext": "Lamont is a small town southeast of Bakersfield with a strong agricultural presence. We are familiar with the types of homes and businesses in Lamont.",
+        "nearbyAreas": [
+          "Arvin",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "S P Flooring is dedicated to providing top-notch flooring services to the community of Arvin, California. We understand that Arvin residents appreciate both quality and affordability, and we strive to deliver both with our extensive selection of flooring options.\n\nFrom elegant hardwood to durable tile, we have the perfect flooring solution to complement your home's unique style. Our experienced team will work closely with you to understand your needs and preferences, and we'll provide expert installation services to ensure that your new floors look their best. We are committed to providing exceptional customer service and building long-lasting relationships with our clients in Arvin.",
+        "localContext": "Arvin is a city in the San Joaquin Valley, known for its agricultural industry. We understand the flooring needs of the homes and businesses in Arvin.",
+        "nearbyAreas": [
+          "Lamont",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "S P Flooring extends its expertise to Tehachapi, California, providing top-quality flooring solutions for homes and businesses alike. We understand that Tehachapi residents value durability and style, and we strive to deliver both with every project we undertake. Our team is dedicated to providing a seamless and stress-free experience from start to finish.\n\nWe offer a comprehensive range of flooring options, from luxurious hardwood to practical and stylish vinyl. Whether you're building a new home or renovating an existing space, S P Flooring has the perfect flooring solution to meet your needs. We pride ourselves on our attention to detail and commitment to customer satisfaction, ensuring that your new floors will look beautiful and last a lifetime.",
+        "localContext": "Tehachapi is a mountain town known for its wind farms and scenic beauty. We are familiar with the unique architectural styles and flooring needs of homes in Tehachapi.",
+        "nearbyAreas": [
+          "Mojave",
+          "California City",
+          "Bear Valley Springs"
+        ]
+      },
+      {
+        "city": "California City",
+        "slug": "california-city-ca",
+        "state": "CA",
+        "content": "S P Flooring is proud to offer its professional flooring services to the residents and businesses of California City, California. As a company deeply rooted in the region, we understand the importance of providing reliable and affordable solutions. We're committed to delivering exceptional results that enhance the beauty and value of your property.\n\nWhether you're looking to upgrade your home with durable and stylish flooring or need a commercial flooring solution that can withstand heavy use, S P Flooring has the perfect option for you. We offer a wide selection of materials, including hardwood, laminate, vinyl, and carpet, and our experienced installers will ensure a flawless finish. We pride ourselves on our commitment to customer satisfaction and our dedication to providing personalized service.",
+        "localContext": "California City is a desert community with a unique history and a focus on future development. We understand the specific needs of California City homes and businesses.",
+        "nearbyAreas": [
+          "Mojave",
+          "Tehachapi",
+          "Rosamond"
+        ]
+      },
+      {
+        "city": "McFarland",
+        "slug": "mcfarland-ca",
+        "state": "CA",
+        "content": "S P Flooring is happy to serve the residents and businesses of McFarland, California, with our comprehensive flooring services. We understand the importance of community and quality workmanship in McFarland, and we strive to embody those values in every project we undertake.\n\nWe offer a wide range of flooring options to suit any style and budget, from classic hardwood to modern laminate. Our experienced team will work closely with you to understand your needs and preferences, and we'll provide expert installation services to ensure a flawless finish. We are committed to providing exceptional customer service and building long-lasting relationships with our clients in McFarland.",
+        "localContext": "McFarland is a small agricultural town in the San Joaquin Valley. We are familiar with the needs of homes and businesses in McFarland.",
+        "nearbyAreas": [
+          "Delano",
+          "Wasco",
+          "Shafter"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Hardwood Flooring",
+        "text": "S P Flooring did an amazing job installing hardwood floors in my living room! The team was professional and efficient, and the floors look absolutely beautiful. They even helped me choose the perfect stain to match my furniture. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Tile Flooring",
+        "text": "I hired S P Flooring to install tile in my bathroom, and I'm very happy with the results. The installation was clean and precise, and the tile looks great. There were a couple of minor delays, but they communicated well and made sure everything was perfect in the end.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Laminate Flooring",
+        "text": "S P Flooring installed laminate flooring in my entire house, and it looks fantastic! The price was very reasonable, and the installation was quick and efficient. The team was friendly and professional, and they cleaned up everything perfectly. I would definitely use them again!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Vinyl Flooring",
+        "text": "We had S P Flooring install vinyl plank in our kitchen and couldn't be happier. With the kids and dogs, we needed something waterproof and durable. It looks great and is so easy to clean. The installers were on time, professional, and did a fantastic job. Thanks!",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Sarah M.",
+        "rating": 4,
+        "service": "Carpet Installation",
+        "text": "S P Flooring helped us pick out and install new carpet in the bedrooms. They were knowledgeable about the different options and helped us find something that fit our budget and style. The installation crew was efficient and careful. There was a small snag with the seams, but they came back promptly to fix it. Overall, a good experience.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Tom H.",
+        "rating": 5,
+        "service": "Floor Repair",
+        "text": "After a pipe burst, we had significant water damage to our hardwood floors. S P Flooring came to the rescue! They were able to repair and refinish the damaged areas, and you can't even tell there was ever a problem. Their expertise saved us from having to replace the entire floor. Highly recommended for floor repair!",
+        "date": "2024-10-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "S P Flooring: Bakersfield's Flooring Experts",
+        "description": "Top-rated flooring contractor in Bakersfield, CA. Hardwood, tile, laminate, vinyl, carpet. Free estimates. Expert installation & repair."
+      },
+      "about": {
+        "title": "About S P Flooring | Bakersfield, CA",
+        "description": "Learn about S P Flooring, a Bakersfield-based flooring contractor. Quality workmanship, local expertise, and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "S P Flooring Services | Bakersfield CA",
+        "description": "Comprehensive flooring services in Bakersfield, CA. Hardwood, tile, laminate, vinyl, carpet installation, and repair. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact S P Flooring | Bakersfield, CA",
+        "description": "Contact S P Flooring for all your flooring needs in Bakersfield, CA. Get a free estimate and schedule a consultation. Call +16614876746"
+      },
+      "reviews": {
+        "title": "S P Flooring Reviews | Bakersfield, CA",
+        "description": "Read reviews from satisfied S P Flooring customers in Bakersfield, CA. See why we're the trusted choice for flooring installation and repair."
+      },
+      "service-areas": {
+        "title": "S P Flooring Service Areas | Bakersfield, CA",
+        "description": "S P Flooring provides expert flooring services in Bakersfield and surrounding areas. Check our service area map for coverage details."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "tile-flooring": "/images/service-tile-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "floor-repair": "/images/service-floor-repair.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring": {
+        "src": "/images/service-tile-flooring.webp",
+        "srcset": "/images/service-tile-flooring-400w.webp 400w, /images/service-tile-flooring-800w.webp 800w, /images/service-tile-flooring-1200w.webp 1200w, /images/service-tile-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair": {
+        "src": "/images/service-floor-repair.webp",
+        "srcset": "/images/service-floor-repair-400w.webp 400w, /images/service-floor-repair-800w.webp 800w, /images/service-floor-repair-1200w.webp 1200w, /images/service-floor-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
